@@ -1,0 +1,7 @@
+The files in this directory are part of a project that I worked on for my final project in Introduction to Software Engineering. 
+
+Rewards.cs - a class that implements rewards in the game, randomly creates batteries, goldbars, and saws
+
+Sounds.cs - a class that implements background sound effects and music
+
+
